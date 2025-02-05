@@ -1,1 +1,1 @@
-# facila-recognization-system
+# facial-recognization-system
